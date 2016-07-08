@@ -1,4 +1,4 @@
-handle = open('path.txt')
+handle = open('routes.txt')
 routes ={}
 for line in handle:
 	line = line.strip()
